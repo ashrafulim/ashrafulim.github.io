@@ -34,7 +34,10 @@ ul {
   padding: 0;
 }
 ul li {
-  list-style: none;
+  list-style: circle;
+  text-align: justify;
+  text-justify: inter-word;
+  margin: 1em 0;
 }
 
 ol {
