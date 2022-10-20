@@ -29,6 +29,15 @@ img {
   letter-spacing: 0.2px;
 }
 
+ulnav {
+  margin: 2;
+  padding: 0;
+}
+ulnav li {
+  list-style: none;
+  
+}
+
 ul {
   margin: 2;
   padding: 0;
